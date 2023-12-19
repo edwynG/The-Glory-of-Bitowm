@@ -1,2 +1,2 @@
 # The-Glory-of-Bitowm
-Proyecto #2 Algoritmo y Estructura de datos - Tema: Backtracking
+Proyecto #1 Algoritmo y Estructura de datos - Tema: Backtracking
